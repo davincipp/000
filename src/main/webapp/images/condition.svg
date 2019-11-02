@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Android/SVGicon/condittion</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/condittion" stroke="#8F939C">
+            <g id="Group" transform="translate(3.000000, 3.000000)">
+                <polygon id="Shape" fill="#EDF0F7" points="7 14 14 10.5 14 3.5 7 0 0 3.5 0 10.5"></polygon>
+                <polyline id="Shape" points="14 3.5 7 7 7 14"></polyline>
+                <path d="M7,7 L0,3.5" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

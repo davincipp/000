@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Android/SVGicon/Location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/Location">
+            <g id="Group-5" transform="translate(5.000000, 2.000000)">
+                <path d="M0.0750443637,5.79062324 C0.485899172,8.10749687 5,15.0192743 5,15.0192743 C5,15.0192743 9.58261394,8.09965101 10,5.79062311 C10.0511815,5.5074811 10,5.23187128 10,4.93421053 C10,2.2091213 7.76142375,0 5,0 C2.23857625,0 0,2.2091213 0,4.93421053 C0,5.22630443 0.0257190798,5.51247036 0.0750443637,5.79062324 Z" id="icon-sell-location" stroke="#8F939C" stroke-width="0.75" fill="#EDF0F7"></path>
+                <ellipse id="Oval-120" fill="#8F939C" cx="5" cy="4.93421053" rx="1.4" ry="1.38157895"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
